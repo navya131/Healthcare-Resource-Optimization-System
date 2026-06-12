@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+healthcare.db
+.ipynb_checkpoints/
+reports/excel/*
+!reports/excel/.gitkeep
+reports/pdf/*
+!reports/pdf/.gitkeep
+streamlit*.log
